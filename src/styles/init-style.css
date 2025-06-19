@@ -1,0 +1,19 @@
+.cs-bg-primay{
+    background-color: #2d62ff;
+}
+.cs-bg-success{
+    background-color: #2ecc71;
+}
+.cs-bg-danger{
+    background-color: #e74c3c;
+}
+
+.cs-text-primary{
+    color: #2d62ff;
+}
+.cs-text-success{
+    color: #2ecc71;
+}
+.cs-text-danger{
+    color: #e74c3c;
+}
